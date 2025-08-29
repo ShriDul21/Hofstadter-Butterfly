@@ -9,7 +9,7 @@ This project explores **Hofstadter’s butterfly**, a fractal energy spectrum th
 ## Results
 - Generated the beautiful fractal spectrum for square and hexagonal lattice strucutres
 - Analyzed Hall conductances with colorful animations based on topological Chern numbers
-- Produced a written report and presentation recognized for clarity and analysis.
+- Produced a written report recognized as a Honorable Mention for clarity and analysis.
 
 ## Future Work
 - Debug/clarify Hamiltonians
